@@ -12,3 +12,7 @@ media/
 staticfiles/
 .env
 local_settings.py
+
+# --- VS Code ---
+.vscode/*
+!.vscode/extensions.json
